@@ -1,0 +1,438 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+
+"names_list":[
+  {
+    "id": 1,
+    "name": "Estefânia",
+    "vote" : "M" 
+  },
+  {
+    "id": 2,
+    "name": "Nathalia Daniela",
+    "vote" : "F "
+  },
+  {
+    "id": 3,
+    "name": "Fernanda Gomide",
+    "vote" : "F" 
+  },
+  {
+    "id": 4,
+    "name": "Evandro Gomide",
+    "vote" : "F" 
+  },
+  {
+    "id": 5,
+    "name": "Pollyana Nutri",
+    "vote" : "F" 
+  },
+  {
+    "id": 6,
+    "name": "Beatriz Kolanscky",
+    "vote" : "M" 
+  },
+  {
+    "id": 7,
+    "name": "Joyce Kolanscky",
+    "vote" : "M" 
+  },
+  {
+    "id": 8,
+    "name": "Natiele",
+    "vote" : "M" 
+  },
+  {
+    "id": 9,
+    "name": "Nathalia Christina",
+    "vote" : "M" 
+  },
+  {
+    "id": 10,
+    "name": "Patrícia Girassol",
+    "vote" : "M" 
+  },
+  {
+    "id": 12,
+    "name": "Thiaguinho",
+    "vote" : "M" 
+  },
+  {
+    "id": 13,
+    "name": "Telma",
+    "vote" : "M" 
+  },
+  {
+    "id": 14,
+    "name": "Teresa Gael",
+    "vote" : "M" 
+  },
+  {
+    "id": 15,
+    "name": "Robs",
+    "vote" : "M" 
+  },
+  {
+    "id": 16,
+    "name": "Maju",
+    "vote" : "M" 
+  },
+  {
+    "id": 17,
+    "name": "Eduardo Sheyla",
+    "vote" : "M" 
+  },
+  {
+    "id": 18,
+    "name": "Geovani Pessoa",
+    "vote" : "M" 
+  },
+  {
+    "id": 19,
+    "name": "Junia Santos",
+    "vote" : "M" 
+  },
+  {
+    "id": 20,
+    "name": "Bianca Magnani",
+    "vote" : "M" 
+  },
+  {
+    "id": 21,
+    "name": "Tiagão Lula",
+    "vote" : "M" 
+  },
+  {
+    "id": 22,
+    "name": "Evelene",
+    "vote" : "M" 
+  },
+  {
+    "id": 23,
+    "name": "Raul Evelene",
+    "vote" : "M" 
+  },
+  {
+    "id": 24,
+    "name": "Claudinha",
+    "vote" : "M" 
+  },
+  {
+    "id": 25,
+    "name": "Dani Pena",
+    "vote" : "M" 
+  },
+  {
+    "id": 26,
+    "name": "Samuca",
+    "vote" : "M" 
+  },
+  {
+    "id": 27,
+    "name": "Marquinhos",
+    "vote" : "M" 
+  },
+  {
+    "id": 28,
+    "name": "Adriana Botelho",
+    "vote" : "M" 
+  },
+  {
+    "id": 29,
+    "name": "Tereza Botelho",
+    "vote" : "M" 
+  },
+  {
+    "id": 30,
+    "name": "Caio Patrão",
+    "vote" : "M" 
+  },
+  {
+    "id": 31,
+    "name": "Fabrício Cardoso",
+    "vote" : "M" 
+  },
+  {
+    "id": 32,
+    "name": "Bruna Girassol",
+    "vote" : "M" 
+  },
+  {
+    "id": 33,
+    "name": "Tiago Girassol",
+    "vote" : "M" 
+  },
+  {
+    "id": 34,
+    "name": "Guto Girassol",
+    "vote" : "M" 
+  },
+  {
+    "id": 35,
+    "name": "Maristela",
+    "vote" : "M" 
+  },
+  {
+    "id": 36,
+    "name": "Wesley Piruca",
+    "vote" : "M" 
+  },
+  {
+    "id": 37,
+    "name": "Cintia Girassol",
+    "vote" : "M" 
+  },
+  {
+    "id": 38,
+    "name": "Adalgisa",
+    "vote" : "M" 
+  },
+  {
+    "id": 39,
+    "name": "Norma Girassol",
+    "vote" : "M" 
+  },
+  {
+    "id": 40,
+    "name": "Neesha",
+    "vote" : "M" 
+  },
+  {
+    "id": 41,
+    "name": "Mônica Neesha",
+    "vote" : "M" 
+  },
+  {
+    "id": 42,
+    "name": "Letícia Sobrancelha",
+    "vote" : "M" 
+  },
+  {
+    "id": 43,
+    "name": "Gleyce Lourenço",
+    "vote" : "M" 
+  },
+  {
+    "id": 44,
+    "name": "Silá",
+    "vote" : "M" 
+  },
+  {
+    "id": 45,
+    "name": "Cesinha Silá",
+    "vote" : "M" 
+  },
+  {
+    "id": 46,
+    "name": "Marcinho",
+    "vote" : "M" 
+  },
+  {
+    "id": 47,
+    "name": "Nick Regina",
+    "vote" : "M" 
+  },
+  {
+    "id": 48,
+    "name": "Kelly Tatiane",
+    "vote" : "M" 
+  },
+  {
+    "id": 49,
+    "name": "Laisa",
+    "vote" : "F" 
+  },
+  {
+    "id": 50,
+    "name": "Marília Valadares",
+    "vote" : "F" 
+  },
+  {
+    "id": 51,
+    "name": "Bruna Pessoa",
+    "vote" : "F" 
+  },
+  {
+    "id": 52,
+    "name": "Mayron",
+    "vote" : "F" 
+  },
+  {
+    "id": 53,
+    "name": "Letícia Gabriela",
+    "vote" : "F" 
+  },
+  {
+    "id": 54,
+    "name": "Sheila França",
+    "vote" : "F" 
+  },
+  {
+    "id": 55,
+    "name": "Sônia Gomes",
+    "vote" : "F" 
+  },
+  {
+    "id": 56,
+    "name": "Bruno Dala",
+    "vote" : "F" 
+  },
+  {
+    "id": 57,
+    "name": "Alessandra Duarte",
+    "vote" : "F" 
+  },
+  {
+    "id": 58,
+    "name": "Fabiana Utsch",
+    "vote" : "F" 
+  },
+  {
+    "id": 59,
+    "name": "Duda Utsch",
+    "vote" : "F" 
+  },
+  {
+    "id": 60,
+    "name": "Lerize",
+    "vote" : "F" 
+  },
+  {
+    "id": 61,
+    "name": "Tatá",
+    "vote" : "F" 
+  },
+  {
+    "id": 62,
+    "name": "Jonathan King",
+    "vote" : "F" 
+  },
+  {
+    "id": 63,
+    "name": "Ana",
+    "vote" : "F" 
+  },
+  {
+    "id": 64,
+    "name": "Felipe",
+    "vote" : "F" 
+  },
+  {
+    "id": 65,
+    "name": "Amanda Teco",
+    "vote" : "F" 
+  },
+  {
+    "id": 66,
+    "name": "Teco",
+    "vote" : "F" 
+  },
+  {
+    "id": 67,
+    "name": "Valentina Teco",
+    "vote" : "F" 
+  },
+  {
+    "id": 68,
+    "name": "Gabriella Claudinho",
+    "vote" : "F" 
+  },
+  {
+    "id": 69,
+    "name": "Beatriz Claudinha",
+    "vote" : "F" 
+  },
+  {
+    "id": 70,
+    "name": "Ingrid Suelen",
+    "vote" : "F" 
+  },
+  {
+    "id": 71,
+    "name": "Marília Girassol",
+    "vote" : "F" 
+  },
+  {
+    "id": 72,
+    "name": "Marijane",
+    "vote" : "F" 
+  },
+  {
+    "id": 73,
+    "name": "Emanys",
+    "vote" : "F" 
+  },
+  {
+    "id": 74,
+    "name": "Paloma",
+    "vote" : "F" 
+  },
+  {
+    "id": 75,
+    "name": "Irmã Sheila",
+    "vote" : "F" 
+  },
+  {
+    "id": 76,
+    "name": "Miriam Maju",
+    "vote" : "F" 
+  },
+  {
+    "id": 77,
+    "name": "Giselle Vieira",
+    "vote" : "F" 
+  },
+  {
+    "id": 78,
+    "name": "Manu Leticia",
+    "vote" : "F" 
+  },
+  {
+    "id": 79,
+    "name": "Sofia Vieira",
+    "vote" : "F" 
+  },
+  {
+    "id": 80,
+    "name": "Marianne Caroline",
+    "vote" : "F" 
+  },
+  {
+    "id": 81,
+    "name": "Tamirex",
+    "vote" : "F" 
+  },
+  {
+    "id": 82,
+    "name": "Regina Demétrio",
+    "vote" : "F" 
+  },
+  {
+    "id": 83,
+    "name": "Carol Valerie",
+    "vote" : "F" 
+  },
+  {
+    "id": 84,
+    "name": "Gabi Rousin",
+    "vote" : "F" 
+  }
+]
+}
